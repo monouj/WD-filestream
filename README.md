@@ -45,7 +45,7 @@ const SIA_NUMBER = 1234; // Insert a random integer.
 - Modify the [variables](#Variables).
 - Finally, **Deploy**.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SudoR2spr/WD-filestream)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Guardianff/WD-filestream)
 ### Setup:
 - Once you deployed the bot on Cloudflare.
 - Check `XXX.XXXX.workers.dev/getMe` to verify your bot authorization.
